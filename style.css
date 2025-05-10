@@ -1,3 +1,5 @@
-.tela-de-login{
-    position: relative;
+body {
+    background-image: url('cinema-com-caixa-de-pipoca.jpg'); /* Substitua pela URL ou caminho da sua imagem */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
